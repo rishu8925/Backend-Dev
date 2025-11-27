@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+#productList li {
+  padding: 8px;
+  background: #f0f0f0;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  margin-left: 6px;
+}
+
+.edit-input {
+  width: 60%;
+  padding: 4px;
+}
